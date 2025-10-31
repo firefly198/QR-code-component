@@ -11,7 +11,7 @@ I really likes this one. I think it's the best challange for begginers, who need
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component---my-first-solution-using-htmlcss-LUy8EK_4KO
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component---my-first-solution-using-htmlcss-p_njbMF1kq
 - Live Site URL: https://firefly198.github.io/QR-code-component/
 
 ## My process
